@@ -1,0 +1,5 @@
+---
+postgres_root_user: root
+postgres_root_pass: GQt5MTyVPuf9vsVWoWDT9YCn
+allow_world_readable_tmpfiles: true
+
