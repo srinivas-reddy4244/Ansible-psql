@@ -35,5 +35,5 @@ BSD
 Author Information
 ------------------
 
-srinivas.nakkala: 
+srinivas.nakkala: https://www.linkedin.com/in/srinivas-reddy-340956125
 # Ansible-psql
